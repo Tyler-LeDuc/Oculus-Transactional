@@ -1,0 +1,64 @@
+<mjml>
+  <mj-body background-color="#f1f1f1" font-size="13px" border-radius="10px" width="800px">
+    <mj-section background-color="#f1f1f1" padding-bottom="20px" padding-top="20px">
+      <mj-column width="100%">
+        <mj-image src="images/logo.png" alt="oculus logo" align="center" border="none" width="100px" padding-left="0px" padding-right="0px" padding-bottom="10px" padding-top="10px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="20px 20px 20px 20px" border-radius="10px 10px 0px 0px">
+      <mj-column width="100%">
+        <mj-text height="100px" align="left" font-size="34px" color="black" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="18px" padding-top="28px">Thank You
+        <p style="padding-top:40px; font-size:14px; color:black; line-height:10px">Date: February 16, 2021</p>
+        <p style="padding-top:10px; font-size:14px; color:black;">Receipt Number: 1144412341234142</p>
+        </mj-text>
+      </mj-column>
+      <mj-section line-height="15px" background-color="white" padding="40px 20px 20px 20px" border-radius="0px 0px 10px 10px">
+        <mj-column width="50%" align="left">
+          <mj-text height="100px" align="left" font-size="15px" color="#a2a2a2"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="18px" padding-top="40px">Billed By:
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">Facebook Technologies, LLC</p>
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">1601 Willow Road</p>
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">Menlo Park, CA 94025</p>
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">USA</p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" align="left">
+          <mj-text height="100px" align="left" font-size="15px" color="#a2a2a2"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="18px" padding-top="40px">Billed To:
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">VISA ending in 1111</p>
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">Tyler LeDuc</p>
+          <p style="padding-top:10px; font-size:14px; color:black; line-height:10px">85226</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white" padding="40px 20px 0px 20px" border-radius="0px 0px 10px 10px">
+        <mj-divider align="left" width="80%" border-color="#a2a2a2" border-width="1px" border-style="solid" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px"></mj-divider>
+        <mj-column width="20%" align="left">
+          <mj-text align="left" font-size="15px" color="black"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="0px" padding-top="28px"><span style="font-weight: 100px">Oculus Quest 2:</span>
+
+          </mj-text>
+        </mj-column>
+        <mj-column width="80%" align="left">
+          <mj-text align="left" font-size="15px" color="black"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="0px" padding-top="28px">$299.99
+
+          </mj-text>
+        </mj-column>
+        <mj-text align="left" font-size="15px" color="#a2a2a2"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="0px" padding-top="0px">
+        <p>By: Facebook Technologies, LLC</p>
+
+        </mj-text>
+        <mj-divider align="left" width="80%" border-color="#a2a2a2" border-width="1px" border-style="solid" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px"></mj-divider>
+      </mj-section>
+      <mj-section background-color="white" padding="0px 20px 200px 20px" border-radius="0px 0px 10px 10px">
+        <mj-column width="100%" align="left">
+          <mj-text align="left" font-size="15px" color="black"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="0px" padding-top="28px"><span style="color:#a2a2a2">Tax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> $20.13
+
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%" align="left">
+          <mj-text align="left" font-size="15px" color="black"  font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="0px" padding-bottom="0px" padding-top="10px"><span style="color:#a2a2a2">Total:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> $20.13
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-section>
+  </mj-body>
+</mjml>
